@@ -1,0 +1,13 @@
+{
+  "main.css": "/TodoList/static/css/main.7b03327a.chunk.css",
+  "main.js": "/TodoList/static/js/main.3c0a4a8c.chunk.js",
+  "main.js.map": "/TodoList/static/js/main.3c0a4a8c.chunk.js.map",
+  "static/js/1.1580cca7.chunk.js": "/TodoList/static/js/1.1580cca7.chunk.js",
+  "static/js/1.1580cca7.chunk.js.map": "/TodoList/static/js/1.1580cca7.chunk.js.map",
+  "runtime~main.js": "/TodoList/static/js/runtime~main.e5fd0004.js",
+  "runtime~main.js.map": "/TodoList/static/js/runtime~main.e5fd0004.js.map",
+  "static/css/main.7b03327a.chunk.css.map": "/TodoList/static/css/main.7b03327a.chunk.css.map",
+  "index.html": "/TodoList/index.html",
+  "precache-manifest.ef7f2ebcf34586bcfc273d0b65b5b248.js": "/TodoList/precache-manifest.ef7f2ebcf34586bcfc273d0b65b5b248.js",
+  "service-worker.js": "/TodoList/service-worker.js"
+}
