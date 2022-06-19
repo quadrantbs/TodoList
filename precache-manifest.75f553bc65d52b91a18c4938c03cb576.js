@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/TodoList/static/js/runtime~main.e5fd0004.js"
   },
   {
-    "revision": "74523c5d0f06a0be4cda276c3f242b24",
+    "revision": "a7c552d6340a87738b531a1b668319d6",
     "url": "/TodoList/index.html"
   }
 ];
